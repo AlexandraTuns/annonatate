@@ -1,3 +1,10 @@
-images: []
+images:
+- added: '2023-11-14 11:41:49.511930'
+  iiif: true
+  thumbnail: https://image.digitalcollections.manchester.ac.uk/iiif/PR-R-00001-50649-00014-000-00001.jp2
+  title: The Bristol bridegroom; or, The ship carpenter's love to a merchant's daughter..
+    (R150649.14)
+  url: https://www.digitalcollections.manchester.ac.uk/iiif/PR-R-00001-50649-00014
+  user: AlexandraTuns
 settings: {}
 version: '2.1'
